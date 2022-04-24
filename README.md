@@ -4,5 +4,9 @@ Projeto prático de um layout  de um site a qual coloquei varios conceitos apren
 varias áreas de serviços 
 linguagem Html e CSS3 
 classe escritas em BEM 
-Grid
+Grid.
+flex box.
+e seletores 
 entre outros...
+<img src="/assets/midia/LAYOUT_DESKTOP.jpg">
+<img src="/assets/midia/LAYOUT_MOBILE.jpg">
